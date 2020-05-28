@@ -2,8 +2,9 @@
 layout: post
 title: My first blog in my website
 tags: [Website, Blog, Nimesh]
-image: assets\img\hello.jpg
-share-img: assets\img\hello.jpg
+image: https://nimeshbabuoli.com.np/assets/img/hello.jpg
+share-img: https://nimeshbabuoli.com.np/assets/img/hello.jpg
+
 ---
 
 # Here I go
