@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>United Nations in the Contemporary World</title>
+        <description>
+          
+          UN has been a pioneering global body for the last 74 years in the area of humanitarian response, aiding the member states, preventing conflicts, maintaining peace and security.UN has been underrepresented, non-inclusive, and structurally partial in the exercise and powers in the decision making especially in its organ, the Security...
+        </description>
+        <pubDate>Thu, 28 May 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2020-05-28-un-in-contemporary-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-05-28-un-in-contemporary-world/</guid>
+      </item>
+    
+      <item>
         <title>My first blog in my website</title>
         <description>
           
@@ -15,22 +26,6 @@
         <pubDate>Thu, 28 May 2020 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2020-05-28-my-first-blog/</link>
         <guid isPermaLink="true">http://localhost:4000/2020-05-28-my-first-blog/</guid>
-      </item>
-    
-      <item>
-        <title>In the memory of Labor Day</title>
-        <description>
-          
-          Here I go
-
-We must celebrate Labor Day.
-
-
-
-        </description>
-        <pubDate>Fri, 01 May 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-05-01-labor-day/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-05-01-labor-day/</guid>
       </item>
     
   </channel>
