@@ -7,7 +7,7 @@ share-img: https://nimeshbabuoli.com.np/assets/img/un_logo.jpg
 
 # image: assets/img/un_logo.jpg
 # share-img: assets/img/un_logo.jpg
-
+comments: true
 ---
 
 UN has been a pioneering global body for the last 74 years in the area of humanitarian response, aiding the member states, preventing conflicts, maintaining peace and security.UN has been underrepresented, non-inclusive, and structurally partial in the exercise and powers in the decision making especially in its organ, the Security Council. The most representative body of the UN, the General Assembly's decision is not binding. Due to this, many conflicts can't be averted to date like the Syrian Conflict, Israeli-Palestinian Conflict, Yemeni Conflict, etc.
