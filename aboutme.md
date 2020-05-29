@@ -12,6 +12,9 @@ subtitle: "Be the change that you want to see in the World."
   Hi, I am <strong>Nimesh Babu Oli</strong>
 </p>
 
+
+<h3>Education</h3>
+
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
 <strong>Bachelor of Computer Engineering</strong> from <strong><a target="_blank" href="https://www.ioepas.edu.np/">Tribhuvan University, Institute of Engineering, Pashchimanchal Campus</a></strong>, Pokhara, Nepal
