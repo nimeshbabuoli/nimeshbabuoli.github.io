@@ -3,8 +3,8 @@ layout: research
 title: Nimesh Babu Oli Research and Publications
 ---
 <head>
-	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
-	<link rel="stylesheet" type="text/css" href="css/books_component.css" />
+	<link rel="stylesheet" type="text/css" href="css/research_style.css" />
+	<link rel="stylesheet" type="text/css" href="css/research_component.css" />
 		<!-- Modernizr is used for flexbox fallback -->
 	<script src="js/modernizr.custom.js"></script>
 </head>
