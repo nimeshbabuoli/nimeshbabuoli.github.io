@@ -9,11 +9,13 @@ subtitle: "Be the change that you want to see in the World."
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi, I am <strong>Nimesh Babu Oli</strong>
+  Hi, I am <strong>Nimesh Babu Oli ( निमेष बाबु ओली )</strong>
 </p>
 
-
-<h3>Education</h3>
+<p class="about-text">
+<span class="fas fa-users about-icon"></span>
+<strong>Member</strong> at <strong><a target="_blank" href="https://ncwa.org.np/">Nepal Council of World Affairs</a></strong>, Kathmandu, Nepal
+</p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
