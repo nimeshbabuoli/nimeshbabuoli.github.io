@@ -140,7 +140,4 @@ title: Nimesh Babu Oli Research and Publications
 				</div>
 			</div>			 -->
 		</section>
-		<center>
-			<h3>Bookworm eh? Follow me on <a href="https://www.goodreads.com/nimeshbabuoli"><img src="goodreads_logo.png" /></a></h3>
-		</center>
 	</div>
