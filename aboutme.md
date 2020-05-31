@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nimesh Babu Oli
+title: Nimesh/About me
 only-about-me: About me
 subtitle: "Be the change that you want to see in the World."
 ---

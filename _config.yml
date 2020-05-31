@@ -30,7 +30,7 @@ baseurl: ""
 navbar-links:
   Research/Publication: "research"  
   Activities:
-    - Travel: "travelling"
+    - Travelling: "travelling"
     - Model UN: "modelun"
     - Social Engagement: "socialengagement"
   Personal:
