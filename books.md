@@ -141,6 +141,6 @@ title: Nimesh Babu Oli Recommendation
 			</div>			 -->
 		</section>
 		<center>
-			<h3>Bookworm eh? Follow me on <a href="https://www.goodreads.com/nimeshbabuoli"><img src="goodreads_logo.png" /></a></h3>
+			<h3>Bibliophile ?  Let's connect on <a href="https://www.goodreads.com/nimeshbabuoli"><img src="goodreads_logo.png" /></a></h3>
 		</center>
 	</div>
