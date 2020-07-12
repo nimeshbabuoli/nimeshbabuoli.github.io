@@ -14,7 +14,7 @@ title: Nimesh Babu Oli Research and Publications
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/computer_engineering_final_project.jpg" alt="Computer Enginering Final Project" />
-					<h3 class="product__title">Computer Enginering Final Project </h3>
+					<h3 class="product__title">Computer Engineering Final Project </h3>
 					<span class="product__author highlight">Nimesh Babu Oli</span>
 					<button class="action action--button" onclick="window.open('/research/computer_engineering_final_project_report.pdf')"><i class="fas fa-book"></i><span class="action__text">Read Briefly</span></button>
 				</div>
