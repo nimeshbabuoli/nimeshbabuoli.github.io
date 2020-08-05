@@ -2,11 +2,12 @@
 layout: post
 title: United Nations in the Contemporary World
 tags: [UN, World, International Relations]
-image: https://nimeshbabuoli.com.np/assets/img/un_logo.jpg
-share-img: https://nimeshbabuoli.com.np/assets/img/un_logo.jpg
+image: assets/img/un.jpg
+share-img: assets/img/un.jpg
 
-# image: assets/img/un_logo.jpg
-# share-img: assets/img/un_logo.jpg
+# image: https://nimeshbabuoli.com.np/assets/img/un.jpg
+# share-img: https://nimeshbabuoli.com.np/assets/img/un.jpg
+
 comments: true
 ---
 
