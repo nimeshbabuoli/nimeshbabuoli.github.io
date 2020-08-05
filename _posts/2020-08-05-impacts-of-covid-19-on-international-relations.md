@@ -3,8 +3,8 @@ layout: post
 title: Impacts of COVID-19 on International Relations
 author: Nimesh Babu Oli
 tags: [COVID-19, International Relations, Pandemic, Corona Virus]
-# image: https://nimeshbabuoli.com.np/assets/img/un_logo.jpg
-# share-img: https://nimeshbabuoli.com.np/assets/img/un_logo.jpg
+# image: https://nimeshbabuoli.com.np/assets/img/covid19.jpg
+# share-img: https://nimeshbabuoli.com.np/assets/img/covid19.jpg
 
 image: assets/img/covid19.jpg
 share-img: assets/img/covid19.jpg
