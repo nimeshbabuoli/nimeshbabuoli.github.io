@@ -9,7 +9,7 @@ subtitle: "Be the change that you want to see in the World."
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi, I am <strong>Nimesh Babu Oli ( निमेष बाबु ओली ).</strong>
+  Hi, I am <strong>Nimesh Babu Oli ( निमेष बाबु ओली )</strong>
 </p>
 
 <p class="about-text">
