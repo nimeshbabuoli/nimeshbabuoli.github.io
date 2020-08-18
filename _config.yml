@@ -28,7 +28,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Research/Publication: "research"  
+  Research/Publication: "research"
   Activities:
     - Travelling: "travelling"
     - Model UN: "modelun"
