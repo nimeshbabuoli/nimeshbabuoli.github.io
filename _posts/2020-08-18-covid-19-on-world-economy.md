@@ -3,8 +3,8 @@ layout: post
 title: Short Video regarding COVID-19 impacts on World Economy
 author: Nimesh Babu Oli
 tags: [COVID-19, Economy, World, International Relations, Global Economy, Corona Virus]
-image: https://nimeshbabuoli.com.np/assets/img/un_logo.jpg
-share-img: https://nimeshbabuoli.com.np/assets/img/un_logo.jpg
+image: https://nimeshbabuoli.com.np/assets/img/covid_on_world_economy.jpg
+share-img: https://nimeshbabuoli.com.np/assets/img/covid_on_world_economy.jpg
 
 # image: assets\img\covid_on_world_economy.jpg
 # share-img: assets\img\covid_on_world_economy.jpg
