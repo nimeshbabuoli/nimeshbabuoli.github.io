@@ -19,6 +19,6 @@ Developing and emerging countries face a greater challenge relatively for they d
 <h4>Here is the video:  </h4>
 
 <div class="video-responsive">
-    <iframe width="740" height="416" src="https://www.youtube.com/embed/Rz71WwGHkj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="740" height="416" src="https://www.youtube.com/embed/JvN6PqMGipI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
