@@ -9,7 +9,7 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: 00296B;
+  color: #00296B;
   position: relative;
   background: #FFF;
   {% if site.page-col %}
@@ -37,10 +37,10 @@ a {
 }
 a:hover,
 a:focus {
-  color: #890000;
+  color: #FDC500;
 }
 blockquote {
-  color: #808080;
+  color: #00296B;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -273,8 +273,8 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #D2B6D6;
-  border-top: 1px #EAEAEA solid;
+  background: #FFFFFF;
+  border-top: 1px #00296B solid;
   margin-top: 50px;
   font-size: 14px;
   {% if site.footer-col %}
