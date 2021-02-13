@@ -45,7 +45,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter. The logo will have a height of 40px
-title-img: "/assets/img/nimesh.jpg"
+#title-img: "/assets/img/nimesh.jpg"
 
 
 # --- Background colour/image options --- #
