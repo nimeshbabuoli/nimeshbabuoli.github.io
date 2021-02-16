@@ -3,8 +3,8 @@ layout: post
 title: Possible US-Iran conflict and its impacts on Nepal
 author: Nimesh Babu Oli
 tags: [Nepal, US, Iran, USA, War, Conflict]
-# image: https://nimeshbabuoli.com.np/assets/img/un_logo.jpg
-# share-img: https://nimeshbabuoli.com.np/assets/img/un_logo.jpg
+# image: https://nimeshbabuoli.com.np/assets/img/us_iran.jpg
+# share-img: https://nimeshbabuoli.com.np/assets/img/us_iran.jpg
 
 image: assets/img/us_iran.jpg
 share-img: assets/img/us_iran.jpg
