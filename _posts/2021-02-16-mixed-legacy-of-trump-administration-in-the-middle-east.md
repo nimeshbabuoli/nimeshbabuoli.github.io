@@ -3,11 +3,11 @@ layout: post
 title: Mixed Legacy of Trump Administration in the Middle East
 author: Nimesh Babu Oli
 tags: [Donald Trump, America, Middle East, International Relations , USA]
-#image: https://nimeshbabuoli.com.np/assets/img/trump.jpg
-#share-img: https://nimeshbabuoli.com.np/assets/img/trump.jpg
+image: https://nimeshbabuoli.com.np/assets/img/trump.jpg
+share-img: https://nimeshbabuoli.com.np/assets/img/trump.jpg
 
-image: assets\img\trump.jpg
-share-img: assets\img\trump.jpg
+#image: assets\img\trump.jpg
+#share-img: assets\img\trump.jpg
 comments: true
 ---
 
