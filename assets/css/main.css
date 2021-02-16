@@ -109,7 +109,7 @@ img {
 
 .navbar-custom {
   background: #00296B;
-  border-bottom: 1px solid #FDC500;
+  border-bottom: 3px solid #FDC500;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
   background: {{ site.navbar-col }};
@@ -274,7 +274,7 @@ img {
 footer {
   padding: 30px 0;
   background: #FFFFFF;
-  border-top: 1px #00296B solid;
+  border-top: 3px #FDC500 solid;
   margin-top: 50px;
   font-size: 14px;
   {% if site.footer-col %}
@@ -287,7 +287,7 @@ footer {
 }
 
 footer a {
-  color: #404040;
+  color: #00296B;
 }
 
 footer .list-inline {

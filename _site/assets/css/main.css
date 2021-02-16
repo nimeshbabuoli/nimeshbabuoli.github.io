@@ -5,7 +5,7 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: #00296B;
   position: relative;
   background: #FFF;
   
@@ -28,10 +28,10 @@ a {
 }
 a:hover,
 a:focus {
-  color: #890000;
+  color: #FDC500;
 }
 blockquote {
-  color: #808080;
+  color: #00296B;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -99,8 +99,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #26619B;
-  border-bottom: 1px solid #EAEAEA;
+  background: #00296B;
+  border-bottom: 3px solid #FDC500;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   
   
@@ -115,7 +115,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #FFD359;
+  color: #FDC500;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -259,8 +259,8 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #D2B6D6;
-  border-top: 1px #EAEAEA solid;
+  background: #FFFFFF;
+  border-top: 3px #FDC500 solid;
   margin-top: 50px;
   font-size: 14px;
   
@@ -268,7 +268,7 @@ footer {
 }
 
 footer a {
-  color: #404040;
+  color: #00296B;
 }
 
 footer .list-inline {
