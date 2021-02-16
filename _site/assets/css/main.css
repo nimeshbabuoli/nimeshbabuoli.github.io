@@ -281,6 +281,7 @@ footer .copyright {
   margin-bottom: 0;
 }
 footer .theme-by {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
   margin: 10px 0 0;
 }
@@ -316,13 +317,13 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #00296B;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #890000;
+  color: #FDC500;
 }
 
 .post-preview .post-title {
@@ -356,7 +357,7 @@ footer .theme-by {
   height: 192px;
   width: 192px;
   margin-top: -13px;
-  filter: grayscale(90%);
+  filter: grayscale(75%);
 }
 .post-image:hover {
   filter: grayscale(0%);
@@ -372,7 +373,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 36px;
+    font-size: 30px;
   }
 }
 
@@ -380,7 +381,7 @@ footer .theme-by {
 
 .blog-tags {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #999;
+  color: #00296B;
   font-size: 15px;
   margin-bottom: 30px;
 }
@@ -394,7 +395,7 @@ footer .theme-by {
 .blog-tags a:hover {
   border-radius: 2px;
   color: #008AFF;
-  background-color: #EEE;
+  background-color: #FDC500;
 }
 
 .post-preview .blog-tags {
@@ -468,7 +469,7 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 22px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
