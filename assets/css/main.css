@@ -9,7 +9,7 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #00296B;
+  color: #000000;
   position: relative;
   background: #FFF;
   {% if site.page-col %}
@@ -30,7 +30,8 @@ p a {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, 'Arial', sans-serif;
-  font-weight: 650;
+  font-weight: 600;
+  color: #00296B;
 
 }
 
