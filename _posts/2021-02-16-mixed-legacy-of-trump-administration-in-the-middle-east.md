@@ -96,3 +96,6 @@ Benjamin Netanyahu's <a target="_blank" href="https://www.washingtonpost.com/wor
 <p style='text-align: justify;'>
 Whether it is a mess or great progress that was made in Trump’s time, the Biden Administration has to inherit all the decisions the previous administration has leftover to them and the few choices they have are to either clean it, revamp it or bolster it.  
 </p>
+
+<p style='text-align: justify;'> <em>Originally Published in the</em> <strong> Asian Institute of Diplomacy and International Affairs (AIDIA).</Strong> <a target="_blank" href="https://www.aidiaasia.org/research-article/mixed-legacy-of-trump-administration-in-the-middle-east">Please find the original source here.</a>
+</p>
