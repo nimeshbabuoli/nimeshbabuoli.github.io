@@ -1,6 +1,6 @@
 ---
 layout: research
-title: Nimesh Babu Oli Research and Publications
+title: Nimesh / Research and Publications
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/research_style.css" />

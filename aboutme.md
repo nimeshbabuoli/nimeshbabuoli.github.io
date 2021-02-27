@@ -22,6 +22,7 @@ subtitle: "Be the change that you want to see in the World."
 <strong>Bachelor of Computer Engineering</strong> from <strong><a target="_blank" href="https://www.ioepas.edu.np/">Tribhuvan University, Institute of Engineering, Pashchimanchal Campus</a></strong>, Pokhara, Nepal
 </p>
 
+
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
 <strong>High School (+2)</strong> majoring in Physics, Chemistry, Mathematics and Biology from <strong><a target="_blank" href="https://www.kanchanjungaschool.edu.np/website">Kanchanjunga English High School</a></strong>, Birtamod, Jhapa, Nepal
