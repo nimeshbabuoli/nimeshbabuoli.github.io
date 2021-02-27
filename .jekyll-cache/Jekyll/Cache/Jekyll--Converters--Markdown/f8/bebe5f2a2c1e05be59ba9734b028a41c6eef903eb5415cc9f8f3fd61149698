@@ -1,0 +1,78 @@
+I"�<div id="aboutme-section">
+	<head>
+		<link rel="stylesheet" href="/assets/css/2.css" />
+		<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	</head>
+
+	<body>
+		<div class="frame">
+<div id="button_open_envelope">
+				Email me
+			</div>
+			<div class="message">
+				<form method="post" action="contact.php">
+					<input type="text" name="name" id="name" placeholder=" Name* " required="" />
+			
+					<input type="email" name="email" id="email" placeholder=" Email* " required="" pattern="^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$" />
+				
+					<input type="text" name="phone" id="phone" placeholder=" Phone (optional)" autofocus="" /> 
+				
+					<textarea name="message" id="messarea" placeholder=" Message* " required=""></textarea>
+			
+					<input type="text" name="address" id="address" style="display: none;" />
+					<input type="submit" value="Send" id="send" />
+				</form>
+			</div>
+			<div class="bottom"></div>			
+			<div class="left"></div>
+			<div class="right"></div>
+			<div class="top"></div>
+			<script src="/assets/js/contactform.js"></script>
+		</div>
+	</body>
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+  Hi, I am <strong>Nimesh Babu Oli ( निमेष बाबु ओली )</strong>
+</p>
+
+<p class="about-text">
+<span class="fas fa-users about-icon"></span>
+<strong>Member</strong> at <strong><a target="_blank" href="https://ncwa.org.np/">Nepal Council of World Affairs</a></strong>, Kathmandu, Nepal
+</p>
+
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+<strong>Bachelor of Computer Engineering</strong> from <strong><a target="_blank" href="https://www.ioepas.edu.np/">Tribhuvan University, Institute of Engineering, Pashchimanchal Campus</a></strong>, Pokhara, Nepal
+</p>
+
+
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+<strong>High School (+2)</strong> majoring in Physics, Chemistry, Mathematics and Biology from <strong><a target="_blank" href="https://www.kanchanjungaschool.edu.np/website">Kanchanjunga English High School</a></strong>, Birtamod, Jhapa, Nepal
+</p>
+
+
+
+<center>
+	<a href="https://twitter.com/nimeshbabuoli" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @nimeshbabuoli</a>
+	<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+<br />
+
+
+<h3>
+	<center>Theme song for my life.</center>
+</h3>
+<div class="video-responsive">
+    <iframe width="740" height="416" src="https://www.youtube.com/embed/YkgkThdzX-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+
+<!-- Oh, and one more thing, if you are wondering about the meaning of my name, well...
+<br><br>
+<center><img src="/assets/img/"></center>
+<br>
+<center><h3>Yes! It literally means translated, interesting, right? </h3><center> -->
+</div>
+:ET
