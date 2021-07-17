@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nepal Qatar Relations
+title: Nepal Qatar Relations (Presentation)
 author: Nimesh Babu Oli
 tags: [Nepal, Qatar, Middle East, International Relations , Sports Diplomacy, Labor Diplomacy]
 # image: https://nimeshbabuoli.com.np/assets/img/trump.jpg
