@@ -18,8 +18,13 @@ subtitle: "Be the change that you want to see in the World."
 </p>
 
 <p class="about-text">
+<span class="fas fa-users about-icon"></span>
+<strong>Member</strong> at <strong><a target="_blank" href="https://amnestynepal.org/">Amnesty International Nepal</a></strong>, Kathmandu, Nepal
+</p>
+
+<p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-<strong>Bachelor of Computer Engineering</strong> from <strong><a target="_blank" href="https://www.ioepas.edu.np/">Tribhuvan University, Institute of Engineering, Pashchimanchal Campus</a></strong>, Pokhara, Nepal
+<strong>Bachelor's Degree in Computer Engineering</strong> from <strong><a target="_blank" href="https://www.ioepas.edu.np/">Tribhuvan University, Institute of Engineering, Pashchimanchal Campus</a></strong>, Pokhara, Nepal
 </p>
 
 
@@ -28,6 +33,11 @@ subtitle: "Be the change that you want to see in the World."
 <strong>High School (+2)</strong> majoring in Physics, Chemistry, Mathematics and Biology from <strong><a target="_blank" href="https://www.kanchanjungaschool.edu.np/website">Kanchanjunga English High School</a></strong>, Birtamod, Jhapa, Nepal
 </p>
 
+
+<p class="about-text">
+<i class="fa fa-linkedin" aria-hidden="true"></i>
+<strong><a target="_blank" href="https://www.linkedin.com/in/nimeshbabuoli/">Click here for my full LinkedIn Profile.</a></strong>
+</p>
 
 
 <center>
