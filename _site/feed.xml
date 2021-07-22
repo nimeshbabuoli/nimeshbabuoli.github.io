@@ -2,9 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nimesh Babu Oli</title>
-    <description>A Global Citizen from Nepal</description>
-    <link>https://www.nimeshbabuoli.com.np/</link>
-    <atom:link href="https://www.nimeshbabuoli.com.np//feed.xml" rel="self" type="application/rss+xml" />
+    <description>International Relations Researcher and Engineer</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Nepal Qatar Relations (Seminar)</title>
+        <description>
+          
+          Nepal and Qatar has a historic relations dating back to 1977, six years after the independence of Qatar from the United Kingdom. Since then, these two countries enjoys a cordial and harmonic relations. The following slides presents the comprehensive outlook on the state of relations between the two nations in...
+        </description>
+        <pubDate>Sat, 17 Jul 2021 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2021-07-17-nepal-qatar-relations/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-07-17-nepal-qatar-relations/</guid>
+      </item>
     
       <item>
         <title>Mixed Legacy of Trump Administration in the Middle East</title>
@@ -12,9 +23,9 @@
           
           Donald Trump was ascended to the throne on a promise of “America’s First” which contradicted the US’s position on a number of foreign policy issues. His way of framing US foreign policy almost totally in business terms neglecting the history, strategy and diplomacy had favored him by the American Public...
         </description>
-        <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://www.nimeshbabuoli.com.np//2021-02-16-mixed-legacy-of-trump-administration-in-the-middle-east/</link>
-        <guid isPermaLink="true">https://www.nimeshbabuoli.com.np//2021-02-16-mixed-legacy-of-trump-administration-in-the-middle-east/</guid>
+        <pubDate>Tue, 16 Feb 2021 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2021-02-16-mixed-legacy-of-trump-administration-in-the-middle-east/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-02-16-mixed-legacy-of-trump-administration-in-the-middle-east/</guid>
       </item>
     
       <item>
@@ -23,9 +34,9 @@
           
           Due to the ongoing lockdown or some form of restrictions in the movement of people and doing businesses, the International Monetary Fund (IMF) has predicted a dire situation in the World Economy in which growth is projected to contract by 4.9 % in 2020. According to the World Trade Organization...
         </description>
-        <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-        <link>https://www.nimeshbabuoli.com.np//2020-08-18-covid-19-on-world-economy/</link>
-        <guid isPermaLink="true">https://www.nimeshbabuoli.com.np//2020-08-18-covid-19-on-world-economy/</guid>
+        <pubDate>Tue, 18 Aug 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2020-08-18-covid-19-on-world-economy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-08-18-covid-19-on-world-economy/</guid>
       </item>
     
       <item>
@@ -34,9 +45,9 @@
           
           Who had thought that our human civilization would be threatened by the outbreak of a pandemic and it will radically change the way of doing things? Apart from a few Hollywood blockbusters, influential TED speakers, fictional writers, and health researchers, no one had anticipated the scale of the crisis of...
         </description>
-        <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-        <link>https://www.nimeshbabuoli.com.np//2020-08-05-impacts-of-covid-19-on-international-relations/</link>
-        <guid isPermaLink="true">https://www.nimeshbabuoli.com.np//2020-08-05-impacts-of-covid-19-on-international-relations/</guid>
+        <pubDate>Wed, 05 Aug 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2020-08-05-impacts-of-covid-19-on-international-relations/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-08-05-impacts-of-covid-19-on-international-relations/</guid>
       </item>
     
       <item>
@@ -45,9 +56,9 @@
           
           UN has been a pioneering multilateral global body for the last 74 years in the area of humanitarian response, aiding the member states, preventing conflicts, maintaining peace and security.UN has been underrepresented, non-inclusive, and structurally partial in the exercise and powers in the decision making especially in its organ, the...
         </description>
-        <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-        <link>https://www.nimeshbabuoli.com.np//2020-05-28-un-in-contemporary-world/</link>
-        <guid isPermaLink="true">https://www.nimeshbabuoli.com.np//2020-05-28-un-in-contemporary-world/</guid>
+        <pubDate>Thu, 28 May 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2020-05-28-un-in-contemporary-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-05-28-un-in-contemporary-world/</guid>
       </item>
     
       <item>
@@ -56,9 +67,9 @@
           
           Have you ever thought about the impacts of the US-Iran conflict on Nepal? The Islamic Republic of Iran and the US have been hostile since the advent of the Iranian Revolution which led to dethrone of US-backed Monarch Mohammad Reza Shah Pahlavi and the start of the theocratic rule of...
         </description>
-        <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://www.nimeshbabuoli.com.np//2020-01-21-us-iran-conflict-and-nepal/</link>
-        <guid isPermaLink="true">https://www.nimeshbabuoli.com.np//2020-01-21-us-iran-conflict-and-nepal/</guid>
+        <pubDate>Tue, 21 Jan 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2020-01-21-us-iran-conflict-and-nepal/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-01-21-us-iran-conflict-and-nepal/</guid>
       </item>
     
       <item>
@@ -67,9 +78,9 @@
           
           Diplomacy is simply the art, science, or management of the relationship between countries (eg. Russia, India, Nepal), international organizations (eg. World Bank, UN, IMF, EU) in a skillful way by the professionals called Diplomats. Diplomacy has always been a non-violent approach in maintaining relationships among nations and organizations through dialogue,...
         </description>
-        <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://www.nimeshbabuoli.com.np//2020-01-13-diplomats-diplomacy-and-the-changes-in-the-modern-world/</link>
-        <guid isPermaLink="true">https://www.nimeshbabuoli.com.np//2020-01-13-diplomats-diplomacy-and-the-changes-in-the-modern-world/</guid>
+        <pubDate>Mon, 13 Jan 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2020-01-13-diplomats-diplomacy-and-the-changes-in-the-modern-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-01-13-diplomats-diplomacy-and-the-changes-in-the-modern-world/</guid>
       </item>
     
   </channel>
