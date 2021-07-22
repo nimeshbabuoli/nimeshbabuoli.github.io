@@ -34,12 +34,6 @@ subtitle: "Be the change that you want to see in the World."
 </p>
 
 
-<p class="about-text">
-<i class="fa fa-linkedin" aria-hidden="true"></i>
-<strong><a target="_blank" href="https://www.linkedin.com/in/nimeshbabuoli/">Click here for my full LinkedIn Profile.</a></strong>
-</p>
-
-
 <center>
 	<a href="https://twitter.com/nimeshbabuoli" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @nimeshbabuoli</a>
 	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

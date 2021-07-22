@@ -35,4 +35,8 @@ subtitle: "Model UN for me is to be a Global Citizen where not only I can rolepl
     * As a Chair of UNDP (2020)
 
 
-_I have also given couple of dozens of Workshops, Orientations and Research Sessions regarding Model United Nations._
+_I have also given hundreds of Workshops, Orientations and Research Sessions regarding Model United Nations._
+
+
+
+<Strong>Some glimpses of my Model UN Participations are:</Strong>
