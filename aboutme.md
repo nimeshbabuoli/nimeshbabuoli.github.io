@@ -13,6 +13,11 @@ subtitle: "Be the change that you want to see in the World."
 </p>
 
 <p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+<strong>Master of Arts in International Relations</strong> from <strong><a target="_blank" href="https://sau.int/">South Asian University (SAARC University)</a></strong>, New Delhi, India
+</p>
+
+<p class="about-text">
 <span class="fas fa-users about-icon"></span>
 <strong>Member</strong> at <strong><a target="_blank" href="https://ncwa.org.np/">Nepal Council of World Affairs</a></strong>, Kathmandu, Nepal
 </p>
