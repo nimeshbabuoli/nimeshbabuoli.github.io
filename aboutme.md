@@ -14,7 +14,7 @@ subtitle: "Be the change that you want to see in the World."
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-<strong>Master of Arts in International Relations</strong> from <strong><a target="_blank" href="sau.int/">South Asian University (SAARC University)</a></strong>, New Delhi, India
+<strong>Master of Arts in International Relations</strong> from <strong><a target="_blank" href="http://sau.int/">South Asian University (SAARC University)</a></strong>, New Delhi, India
 </p>
 
 <p class="about-text">
