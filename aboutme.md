@@ -14,18 +14,23 @@ subtitle: "Be the change that you want to see in the World."
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
+<strong>Master of International Affairs</strong> from <strong><a target="_blank" href="https://bush.tamu.edu/"> The Bush School of Government and Public Service (Texas A&M University)</a></strong>, Texas, United States
+</p>
+
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
 <strong>Master of Arts in International Relations</strong> from <strong><a target="_blank" href="http://sau.int/">South Asian University (SAARC University)</a></strong>, New Delhi, India
 </p>
 
-<p class="about-text">
+<!-- <p class="about-text">
 <span class="fas fa-users about-icon"></span>
 <strong>Member</strong> at <strong><a target="_blank" href="https://ncwa.org.np/">Nepal Council of World Affairs</a></strong>, Kathmandu, Nepal
-</p>
+</p> -->
 
-<p class="about-text">
+<!-- <p class="about-text">
 <span class="fas fa-users about-icon"></span>
 <strong>Member</strong> at <strong><a target="_blank" href="https://amnestynepal.org/">Amnesty International Nepal</a></strong>, Kathmandu, Nepal
-</p>
+</p> -->
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
@@ -33,10 +38,10 @@ subtitle: "Be the change that you want to see in the World."
 </p>
 
 
-<p class="about-text">
+<!-- <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
 <strong>High School (+2)</strong> majoring in Physics, Chemistry, Mathematics and Biology from <strong><a target="_blank" href="https://www.kanchanjungaschool.edu.np/website">Kanchanjunga English High School</a></strong>, Birtamod, Jhapa, Nepal
-</p>
+</p> -->
 
 
 <center>
