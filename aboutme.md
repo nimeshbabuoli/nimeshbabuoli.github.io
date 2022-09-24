@@ -14,7 +14,7 @@ subtitle: "Be the change that you want to see in the World."
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-<strong>Master of International Affairs</strong> from <strong><a target="_blank" href="https://bush.tamu.edu/"> The Bush School of Government and Public Service (Texas A&M University)</a></strong>, Texas, United States
+<strong>Master of International Affairs</strong> from <strong><a target="_blank" href="https://bush.tamu.edu/"> The Bush School of Government and Public Service (Texas A&M University)</a></strong>, United States (US)
 </p>
 
 <p class="about-text">
