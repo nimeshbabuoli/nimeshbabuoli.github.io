@@ -14,12 +14,12 @@ subtitle: "Be the change that you want to see in the World."
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-<strong>Master of International Affairs</strong> from <strong><a target="_blank" href="https://bush.tamu.edu/"> The Bush School of Government and Public Service (Texas A&M University)</a></strong>, United States (US)
+<strong>Master of International Affairs</strong> from <strong><a target="_blank" href="https://bush.tamu.edu/"> the Bush School of Government and Public Service (Texas A&M University)</a></strong>, United States
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-<strong>Master of Arts in International Relations</strong> from <strong><a target="_blank" href="http://sau.int/">South Asian University (SAARC University)</a></strong>, New Delhi, India
+<strong>Master of Arts in International Relations</strong> from the <strong><a target="_blank" href="http://sau.int/">South Asian University (SAARC University)</a></strong>, New Delhi, India
 </p>
 
 <!-- <p class="about-text">
@@ -34,14 +34,14 @@ subtitle: "Be the change that you want to see in the World."
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-<strong>Bachelor's Degree in Computer Engineering</strong> from <strong><a target="_blank" href="https://www.ioepas.edu.np/">Tribhuvan University, Institute of Engineering, Pashchimanchal Campus</a></strong>, Pokhara, Nepal
+<strong>Bachelor's Degree in Computer Engineering</strong> from the <strong><a target="_blank" href="https://www.ioepas.edu.np/">Western Region Campus, Tribhuvan University</a></strong>, Pokhara, Nepal
 </p>
 
 
-<!-- <p class="about-text">
+<p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-<strong>High School (+2)</strong> majoring in Physics, Chemistry, Mathematics and Biology from <strong><a target="_blank" href="https://www.kanchanjungaschool.edu.np/website">Kanchanjunga English High School</a></strong>, Birtamod, Jhapa, Nepal
-</p> -->
+<strong>High School degree (+2)</strong> majoring in Physics, Chemistry, Mathematics and Biology from <strong><a target="_blank" href="https://www.kanchanjungaschool.edu.np/website">Kanchanjunga English High School</a></strong>, Birtamod, Jhapa, Nepal
+</p>
 
 
 <center>
