@@ -10,7 +10,7 @@ share-img: https://nimeshbabuoli.com.np/assets/img/logo_for_poster_quant.png
 #share-img: assets\img\logo_for_poster_quant.png
 comments: true
 ---
-<p style='text-align: justify;'>The following poster was presented by <b>Nimesh Babu Oli</b> and <b>Matthew Bennett</b> (Students at <a target="_blank" href="https://bush.tamu.edu/">the Bush School of Government and Public Service</a> at <a target="_blank" href="https://tamu.edu/">Texas A&M University</a>) as a part of Quantitative Methods project.
+<p style='text-align: justify;'>The following poster was presented by <b>Nimesh Babu Oli</b> and <b>Matthew Bennett</b> (Students at <a target="_blank" href="https://bush.tamu.edu/">the Bush School of Government and Public Service</a> at <a target="_blank" href="https://tamu.edu/">Texas A&M University</a>) as a part of Quantitative Methods coursework taught by Professor Dvir.
 </p>
 
 
