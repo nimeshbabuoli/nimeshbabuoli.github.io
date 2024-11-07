@@ -39,7 +39,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #FDC500;
+  color: #fdc500;
 }
 blockquote {
   color: #00296B;
@@ -110,8 +110,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #00296B;
-  border-bottom: 3px solid #FDC500;
+  background: #500000;
+  border-bottom: 3px solid #afffff;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
   background: {{ site.navbar-col }};
@@ -130,8 +130,8 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
-  color: #FDC500;
+  font-weight: 900;
+  color: #afffff;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -276,7 +276,7 @@ img {
 footer {
   padding: 30px 0;
   background: #FFFFFF;
-  border-top: 3px #FDC500 solid;
+  border-top: 3px #afffff solid;
   margin-top: 50px;
   font-size: 14px;
   {% if site.footer-col %}
@@ -289,7 +289,7 @@ footer {
 }
 
 footer a {
-  color: #00296B;
+  color: #500000;
 }
 
 footer .list-inline {
@@ -338,13 +338,13 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #00296B;
+  color: #500000;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #FDC500;
+  color: #fdc500;
 }
 
 .post-preview .post-title {
@@ -416,7 +416,7 @@ footer .theme-by {
 .blog-tags a:hover {
   border-radius: 2px;
   color: #008AFF;
-  background-color: #FDC500;
+  background-color: #fdc500;
 }
 
 .post-preview .blog-tags {
