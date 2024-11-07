@@ -3,8 +3,8 @@ layout: post
 title: Democratization and Institution Building in Iraq
 author: Nimesh Babu Oli, Katrina Parks
 tags: [Middle East, USA, Iraq, Democratization, Democracy, Institutions]
-image: https://nimeshbabuoli.com.np/assets/img/logo_for_poster_quant.png
-share-img: https://nimeshbabuoli.com.np/assets/img/logo_for_poster_quant.png
+image: https://nimeshbabuoli.com.np/assets/img/usa_iraq.png
+share-img: https://nimeshbabuoli.com.np/assets/img/iraq_democratization.jpeg
 
 #image: assets\img\logo_for_poster_quant.png
 #share-img: assets\img\logo_for_poster_quant.png
